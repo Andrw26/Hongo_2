@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "sporecannons:block/cryogenic_reservoir_frame",
+    "frame": "sporecannons:block/cryogenic_reservoir_frame",
+    "surface": "sporecannons:block/cryogenic_reservoir_surface",
+    "sample": "sporecannons:block/sample_core",
+    "detail": "sporecannons:block/cryogenic_reservoir_cap",
+    "accent": "sporecannons:block/cryogenic_reservoir_connector"
+  },
+  "elements": [],
+  "render_type": "minecraft:translucent"
+}

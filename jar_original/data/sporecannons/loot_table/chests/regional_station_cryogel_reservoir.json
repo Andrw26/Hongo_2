@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:chest",
+  "pools": [{
+    "rolls": { "type": "minecraft:uniform", "min": 1, "max": 2 },
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "sporecannons:stabilized_cryogel",
+      "functions": [{ "function": "minecraft:set_count", "count": { "type": "minecraft:uniform", "min": 1, "max": 2 } }]
+    }]
+  }],
+  "random_sequence": "sporecannons:chests/regional_station_cryogel_reservoir"
+}

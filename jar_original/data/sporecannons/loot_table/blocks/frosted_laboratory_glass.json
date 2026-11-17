@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sporecannons:frosted_laboratory_glass"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "sporecannons:blocks/frosted_laboratory_glass"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sporecannons:ventilation_block"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "sporecannons:blocks/ventilation_block"
+}

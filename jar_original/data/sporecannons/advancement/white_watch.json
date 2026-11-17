@@ -1,0 +1,15 @@
+{
+  "parent": "sporecannons:diagnosis_infection",
+  "display": {
+    "icon": { "id": "sporecannons:cryogenic_mine_fuze" },
+    "title": { "translate": "advancements.sporecannons.white_watch.title" },
+    "description": { "translate": "advancements.sporecannons.white_watch.description" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mine_triggered": { "trigger": "sporecannons:mine_triggered" }
+  }
+}

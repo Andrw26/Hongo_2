@@ -1,0 +1,15 @@
+{
+  "parent": "sporecannons:cryogenic_arsenal",
+  "display": {
+    "icon": { "id": "sporecannons:whiteout_field_manual" },
+    "title": { "translate": "advancements.sporecannons.recovered_protocol.title" },
+    "description": { "translate": "advancements.sporecannons.recovered_protocol.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_manual": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "sporecannons:whiteout_field_manual" }] }
+    }
+  }
+}

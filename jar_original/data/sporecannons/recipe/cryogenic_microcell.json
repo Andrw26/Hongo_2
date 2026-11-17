@@ -1,0 +1,10 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "sporecannons:stabilized_cryogel" },
+    { "tag": "c:plates/iron" },
+    { "item": "minecraft:iron_nugget" },
+    { "item": "minecraft:iron_nugget" }
+  ],
+  "results": [{ "id": "sporecannons:cryogenic_microcell", "count": 8 }]
+}

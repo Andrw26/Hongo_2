@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "sporecannons:whiteout_field_manual" }]
+    },
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "sporecannons:cryogel_research_log" }]
+    },
+    {
+      "rolls": { "type": "minecraft:uniform", "min": 2, "max": 4 },
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:paper", "weight": 6,
+          "functions": [{ "function": "minecraft:set_count", "count": { "type": "minecraft:uniform", "min": 2, "max": 7 } }] },
+        { "type": "minecraft:item", "name": "minecraft:compass", "weight": 2 },
+        { "type": "minecraft:item", "name": "minecraft:writable_book", "weight": 3 },
+        { "type": "minecraft:item", "name": "minecraft:map", "weight": 2 }
+      ]
+    }
+  ],
+  "random_sequence": "sporecannons:chests/whiteout_archive_cabinet"
+}

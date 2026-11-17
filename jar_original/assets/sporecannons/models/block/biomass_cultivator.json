@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": true,
+  "textures": {
+    "particle": "sporecannons:block/cultivator_casing",
+    "side": "sporecannons:block/cultivator_casing",
+    "panel": "sporecannons:block/cultivator_casing",
+    "top": "sporecannons:block/cultivator_worktop",
+    "culture": "sporecannons:block/cultivator_culture",
+    "frame": "sporecannons:block/cultivator_frame"
+  },
+  "elements": [
+    { "from": [1,0,1], "to": [15,3,15], "faces": {
+      "down":{"texture":"#side"}, "up":{"texture":"#top"}, "north":{"texture":"#side"},
+      "south":{"texture":"#side"}, "west":{"texture":"#side"}, "east":{"texture":"#side"} } },
+    { "from": [2,3,2], "to": [14,10,14], "faces": {
+      "down":{"texture":"#side"}, "up":{"texture":"#top"}, "north":{"texture":"#culture"},
+      "south":{"texture":"#side"}, "west":{"texture":"#panel"}, "east":{"texture":"#panel"} } },
+    { "from": [1,10,1], "to": [15,12,15], "faces": {
+      "down":{"texture":"#side"}, "up":{"texture":"#top"}, "north":{"texture":"#frame"},
+      "south":{"texture":"#frame"}, "west":{"texture":"#frame"}, "east":{"texture":"#frame"} } },
+    { "from": [4,12,4], "to": [12,15,12], "faces": {
+      "down":{"texture":"#frame"}, "up":{"texture":"#culture"}, "north":{"texture":"#culture"},
+      "south":{"texture":"#culture"}, "west":{"texture":"#culture"}, "east":{"texture":"#culture"} } },
+    { "from": [3,12,3], "to": [4,16,4], "faces": {
+      "down":{"texture":"#frame"}, "up":{"texture":"#frame"}, "north":{"texture":"#frame"},
+      "south":{"texture":"#frame"}, "west":{"texture":"#frame"}, "east":{"texture":"#frame"} } },
+    { "from": [12,12,3], "to": [13,16,4], "faces": {
+      "down":{"texture":"#frame"}, "up":{"texture":"#frame"}, "north":{"texture":"#frame"},
+      "south":{"texture":"#frame"}, "west":{"texture":"#frame"}, "east":{"texture":"#frame"} } },
+    { "from": [3,12,12], "to": [4,16,13], "faces": {
+      "down":{"texture":"#frame"}, "up":{"texture":"#frame"}, "north":{"texture":"#frame"},
+      "south":{"texture":"#frame"}, "west":{"texture":"#frame"}, "east":{"texture":"#frame"} } },
+    { "from": [12,12,12], "to": [13,16,13], "faces": {
+      "down":{"texture":"#frame"}, "up":{"texture":"#frame"}, "north":{"texture":"#frame"},
+      "south":{"texture":"#frame"}, "west":{"texture":"#frame"}, "east":{"texture":"#frame"} } }
+  ]
+}

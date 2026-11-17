@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PIP",
+    "IBI",
+    "PIP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "B": {
+      "item": "sporecannons:reinforced_wall_panel"
+    }
+  },
+  "result": {
+    "id": "sporecannons:ventilation_block",
+    "count": 4
+  },
+  "show_notification": true
+}

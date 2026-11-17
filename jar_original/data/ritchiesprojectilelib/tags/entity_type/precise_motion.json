@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "sporecannons:freeze_shell",
+    "sporecannons:freeze_shell_ii",
+    "sporecannons:freeze_shell_iii",
+    "sporecannons:freeze_shell_iv",
+    "sporecannons:freeze_shell_v",
+    "sporecannons:freeze_shell_vi"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "RTR",
+    "PWP",
+    "RTR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "T": {
+      "item": "sporecannons:technical_wall_panel"
+    },
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "W": {
+      "item": "sporecannons:laboratory_wall"
+    }
+  },
+  "result": {
+    "id": "sporecannons:whiteout_warning_panel",
+    "count": 2
+  },
+  "show_notification": true
+}

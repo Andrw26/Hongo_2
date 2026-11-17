@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PDP",
+    "PDP",
+    "PDP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "D": {
+      "item": "minecraft:iron_door"
+    }
+  },
+  "result": {
+    "id": "sporecannons:laboratory_door",
+    "count": 2
+  },
+  "show_notification": true
+}

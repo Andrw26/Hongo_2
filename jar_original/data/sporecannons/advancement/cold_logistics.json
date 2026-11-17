@@ -1,0 +1,10 @@
+{
+  "parent": "sporecannons:recovered_protocol",
+  "display": {
+    "icon": { "id": "sporecannons:charged_cdu_coolant_cartridge" },
+    "title": { "translate": "advancements.sporecannons.cold_logistics.title" },
+    "description": { "translate": "advancements.sporecannons.cold_logistics.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": { "refilled": { "trigger": "sporecannons:cartridge_refilled" } }
+}

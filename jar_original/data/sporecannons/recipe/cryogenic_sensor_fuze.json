@@ -1,0 +1,16 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": ["BEEB", "BPMB", " RY "],
+  "key": {
+    "B": { "tag": "c:plates/brass" },
+    "E": { "item": "create:electron_tube" },
+    "P": { "item": "createbigcannons:proximity_fuze" },
+    "M": { "item": "sporecannons:communication_module" },
+    "R": { "item": "create:precision_mechanism" },
+    "Y": { "item": "sporecannons:cryogenic_microcell" }
+  },
+  "result": { "id": "sporecannons:cryogenic_sensor_fuze", "count": 1 },
+  "show_notification": false
+}

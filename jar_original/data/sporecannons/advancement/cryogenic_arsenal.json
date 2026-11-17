@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": { "id": "sporecannons:freeze_shell" },
+    "title": { "translate": "advancements.sporecannons.cold_solution.title" },
+    "description": { "translate": "advancements.sporecannons.cold_solution.description" },
+    "background": "minecraft:textures/block/packed_ice.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_tier_i": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": "sporecannons:freeze_shell" }
+        ]
+      }
+    },
+    "has_tier_ii": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "sporecannons:freeze_shell_ii" }] }
+    },
+    "has_tier_iii": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "sporecannons:freeze_shell_iii" }] }
+    },
+    "has_tier_iv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "sporecannons:freeze_shell_iv" }] }
+    },
+    "has_tier_v": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "sporecannons:freeze_shell_v" }] }
+    },
+    "has_tier_vi": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "sporecannons:freeze_shell_vi" }] }
+    }
+  },
+  "requirements": [[
+    "has_tier_i", "has_tier_ii", "has_tier_iii",
+    "has_tier_iv", "has_tier_v", "has_tier_vi"
+  ]]
+}

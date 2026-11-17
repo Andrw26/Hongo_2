@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:chest",
+  "pools": [{
+    "rolls": { "type": "minecraft:uniform", "min": 2, "max": 4 },
+    "entries": [
+      { "type": "minecraft:item", "name": "spore:claw_fragment", "weight": 8 },
+      { "type": "minecraft:item", "name": "spore:armor_fragment", "weight": 8 },
+      { "type": "minecraft:item", "name": "spore:spine_fragment", "weight": 7 },
+      { "type": "minecraft:item", "name": "spore:sickle_fragment", "weight": 5 },
+      { "type": "minecraft:item", "name": "spore:shield_fragment", "weight": 5 },
+      { "type": "minecraft:item", "name": "spore:tumor", "weight": 4 },
+      { "type": "minecraft:item", "name": "spore:altered_spleen", "weight": 1 }
+    ]
+  }],
+  "random_sequence": "sporecannons:chests/regional_station_sample_chamber"
+}

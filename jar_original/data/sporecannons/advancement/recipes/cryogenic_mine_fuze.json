@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_sensor_fuze": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": "sporecannons:cryogenic_sensor_fuze" }]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": { "recipe": "sporecannons:cryogenic_mine_fuze" }
+    }
+  },
+  "requirements": [["has_sensor_fuze", "has_the_recipe"]],
+  "rewards": { "recipes": ["sporecannons:cryogenic_mine_fuze"] }
+}

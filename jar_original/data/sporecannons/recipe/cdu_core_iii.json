@@ -1,0 +1,15 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": ["BNB", "GPG", "BRB"],
+  "key": {
+    "B": { "tag": "c:plates/brass" },
+    "N": { "item": "createbigcannons:nitropowder" },
+    "G": { "item": "sporecannons:stabilized_cryogel" },
+    "P": { "item": "sporecannons:cdu_core_ii" },
+    "R": { "item": "sporecannons:pressure_regulator" }
+  },
+  "result": { "id": "sporecannons:cdu_core_iii", "count": 1 },
+  "show_notification": false
+}

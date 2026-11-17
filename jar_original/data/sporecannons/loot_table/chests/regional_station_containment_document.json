@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:chest",
+  "pools": [{ "rolls": 1, "entries": [{ "type": "minecraft:item", "name": "sporecannons:regional_station_containment_report" }] }],
+  "random_sequence": "sporecannons:chests/regional_station_containment_document"
+}

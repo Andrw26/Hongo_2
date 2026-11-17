@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PRP",
+    "RGR",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "R": {
+      "item": "sporecannons:reinforced_wall_panel"
+    },
+    "G": {
+      "item": "sporecannons:reinforced_laboratory_glass"
+    }
+  },
+  "result": {
+    "id": "sporecannons:laboratory_glass_frame",
+    "count": 4
+  },
+  "show_notification": true
+}

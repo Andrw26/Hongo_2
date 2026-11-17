@@ -1,0 +1,14 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [" C ", "LGL", " R "],
+  "key": {
+    "C": { "item": "create:copper_sheet" },
+    "L": { "item": "sporecannons:thermal_lining" },
+    "G": { "item": "minecraft:glass_bottle" },
+    "R": { "item": "sporecannons:pressure_regulator" }
+  },
+  "result": { "id": "sporecannons:depleted_cdu_coolant_cartridge", "count": 2 },
+  "show_notification": false
+}

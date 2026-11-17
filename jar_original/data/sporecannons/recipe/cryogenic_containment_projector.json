@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [" SLS ", "SCPCS", "LNDML", "SCPCS", " SLS "],
+  "key": {
+    "S": { "item": "create:sturdy_sheet" },
+    "L": { "item": "sporecannons:thermal_lining" },
+    "C": { "item": "create:brass_casing" },
+    "P": { "item": "sporecannons:pressure_regulator" },
+    "M": { "item": "create:precision_mechanism" },
+    "N": { "item": "sporecannons:communication_module" },
+    "D": { "item": "spore:cdu" }
+  },
+  "result": { "id": "sporecannons:cryogenic_containment_projector", "count": 1 },
+  "show_notification": false
+}

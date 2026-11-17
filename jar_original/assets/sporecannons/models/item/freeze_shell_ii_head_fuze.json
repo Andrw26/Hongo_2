@@ -1,0 +1,1 @@
+{"loader":"neoforge:composite","textures":{"particle":"sporecannons:block/freeze_shell_ii_side"},"children":{"shell":{"parent":"sporecannons:block/freeze_shell_ii"},"fuze":{"parent":"sporecannons:block/cdu_fuze_head_overlay"}},"item_render_order":["shell","fuze"]}

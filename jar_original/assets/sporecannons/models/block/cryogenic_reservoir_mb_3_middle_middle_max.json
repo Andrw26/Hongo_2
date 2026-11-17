@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "sporecannons:block/cryogenic_reservoir_frame",
+    "frame": "sporecannons:block/cryogenic_reservoir_frame",
+    "surface": "sporecannons:block/cryogenic_reservoir_surface",
+    "sample": "sporecannons:block/sample_core",
+    "detail": "sporecannons:block/cryogenic_reservoir_cap",
+    "accent": "sporecannons:block/cryogenic_reservoir_connector"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        15.55
+      ],
+      "to": [
+        16,
+        16,
+        15.6
+      ],
+      "faces": {
+        "south": {
+          "texture": "#surface"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        5,
+        15.65
+      ],
+      "to": [
+        11,
+        11,
+        15.95
+      ],
+      "faces": {
+        "south": {
+          "texture": "#accent"
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:translucent"
+}

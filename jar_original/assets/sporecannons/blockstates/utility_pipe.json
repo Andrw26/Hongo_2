@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "sporecannons:block/utility_pipe"
+    },
+    "axis=x": {
+      "model": "sporecannons:block/utility_pipe",
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sporecannons:block/utility_pipe",
+      "x": 90
+    }
+  }
+}

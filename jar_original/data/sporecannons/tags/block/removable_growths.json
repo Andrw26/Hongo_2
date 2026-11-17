@@ -1,0 +1,113 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "spore:growths_big",
+      "required": false
+    },
+    {
+      "id": "spore:growths_small",
+      "required": false
+    },
+    {
+      "id": "spore:blomfung",
+      "required": false
+    },
+    {
+      "id": "spore:bloomfung2",
+      "required": false
+    },
+    {
+      "id": "spore:growth_mycelium",
+      "required": false
+    },
+    {
+      "id": "spore:fungal_stem_sapling",
+      "required": false
+    },
+    {
+      "id": "spore:fungal_roots",
+      "required": false
+    },
+    {
+      "id": "spore:wall_growths",
+      "required": false
+    },
+    {
+      "id": "spore:wall_growths_big",
+      "required": false
+    },
+    {
+      "id": "spore:wall_growths_fleshy",
+      "required": false
+    },
+    {
+      "id": "spore:hanging_fungal_stem",
+      "required": false
+    },
+    {
+      "id": "spore:mycelium_veins",
+      "required": false
+    },
+    {
+      "id": "spore:fungal_stem",
+      "required": false
+    },
+    {
+      "id": "spore:fungal_stem_top",
+      "required": false
+    },
+    {
+      "id": "spore:underwater_fungal_stem",
+      "required": false
+    },
+    {
+      "id": "spore:underwater_fungal_stem_top",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_bush",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_grass",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_fern",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_crops",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_branch",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_scraps",
+      "required": false
+    },
+    {
+      "id": "spore:hand",
+      "required": false
+    },
+    {
+      "id": "spore:lungs",
+      "required": false
+    },
+    {
+      "id": "spore:vocals",
+      "required": false
+    },
+    {
+      "id": "spore:acidic_sack",
+      "required": false
+    },
+    {
+      "id": "spore:glowshroom",
+      "required": false
+    }
+  ]
+}

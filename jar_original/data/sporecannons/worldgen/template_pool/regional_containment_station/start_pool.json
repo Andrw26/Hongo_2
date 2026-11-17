@@ -1,0 +1,13 @@
+{
+  "name": "sporecannons:regional_containment_station/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [{
+    "weight": 1,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "location": "sporecannons:regional_containment_station",
+      "processors": "minecraft:empty",
+      "projection": "rigid"
+    }
+  }]
+}

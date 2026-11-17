@@ -1,0 +1,204 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "sporecannons:block/facility_frame",
+    "frame": "sporecannons:block/facility_frame",
+    "surface": "sporecannons:block/chamber_glass",
+    "sample": "sporecannons:block/sample_core",
+    "detail": "sporecannons:block/utility_pipe_side",
+    "accent": "sporecannons:block/communication_cable_front"
+  },
+  "elements": [
+    {
+      "from": [
+        0.4,
+        2,
+        2
+      ],
+      "to": [
+        0.45,
+        16,
+        16
+      ],
+      "faces": {
+        "west": {
+          "texture": "#surface"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        0.4,
+        2
+      ],
+      "to": [
+        16,
+        0.45,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#surface"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        2,
+        0.4
+      ],
+      "to": [
+        16,
+        16,
+        0.45
+      ],
+      "faces": {
+        "north": {
+          "texture": "#surface"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        2,
+        16,
+        2
+      ],
+      "faces": {
+        "west": {
+          "texture": "#frame"
+        },
+        "east": {
+          "texture": "#frame"
+        },
+        "north": {
+          "texture": "#frame"
+        },
+        "south": {
+          "texture": "#frame"
+        },
+        "down": {
+          "texture": "#frame"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        2,
+        2
+      ],
+      "faces": {
+        "up": {
+          "texture": "#frame"
+        },
+        "down": {
+          "texture": "#frame"
+        },
+        "north": {
+          "texture": "#frame"
+        },
+        "south": {
+          "texture": "#frame"
+        },
+        "west": {
+          "texture": "#frame"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        2,
+        2,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#frame"
+        },
+        "down": {
+          "texture": "#frame"
+        },
+        "west": {
+          "texture": "#frame"
+        },
+        "east": {
+          "texture": "#frame"
+        },
+        "north": {
+          "texture": "#frame"
+        }
+      }
+    },
+    {
+      "from": [
+        12,
+        12,
+        12
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "west": {
+          "texture": "#sample"
+        },
+        "down": {
+          "texture": "#sample"
+        },
+        "north": {
+          "texture": "#sample"
+        }
+      }
+    },
+    {
+      "from": [
+        9,
+        0,
+        9
+      ],
+      "to": [
+        10,
+        16,
+        10
+      ],
+      "faces": {
+        "west": {
+          "texture": "#detail"
+        },
+        "east": {
+          "texture": "#detail"
+        },
+        "north": {
+          "texture": "#detail"
+        },
+        "south": {
+          "texture": "#detail"
+        },
+        "down": {
+          "texture": "#detail"
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:cutout"
+}

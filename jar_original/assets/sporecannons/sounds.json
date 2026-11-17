@@ -1,0 +1,82 @@
+{
+  "freeze_shell_place": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_place",
+    "sounds": ["sporecannons:block/freeze_shell_place"]
+  },
+  "freeze_shell_removed": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_removed",
+    "sounds": ["sporecannons:block/freeze_shell_removed"]
+  },
+  "mine_fuze_place": {
+    "subtitle": "subtitles.sporecannons.mine_fuze_place",
+    "sounds": ["sporecannons:mine/mine_fuze_place"]
+  },
+  "mine_fuze_ready": {
+    "subtitle": "subtitles.sporecannons.mine_fuze_ready",
+    "sounds": ["sporecannons:mine/mine_fuze_ready"]
+  },
+  "mine_fuze_signal": {
+    "subtitle": "subtitles.sporecannons.mine_fuze_signal",
+    "sounds": ["sporecannons:mine/mine_fuze_signal"]
+  },
+  "mine_fuze_trigger": {
+    "subtitle": "subtitles.sporecannons.mine_fuze_trigger",
+    "sounds": ["sporecannons:mine/mine_fuze_trigger"]
+  },
+  "scanner_remote_warning": {
+    "subtitle": "subtitles.sporecannons.scanner_remote_warning",
+    "sounds": ["sporecannons:scanner/scanner_remote_warning"]
+  },
+  "containment_projector_startup": {
+    "subtitle": "subtitles.sporecannons.containment_projector_startup",
+    "sounds": ["sporecannons:projector/containment_projector_startup"]
+  },
+  "standard_fuze_trigger": {
+    "subtitle": "subtitles.sporecannons.standard_fuze_trigger",
+    "sounds": ["sporecannons:activation/standard_fuze_trigger"]
+  },
+  "sensor_fuze_lock": {
+    "subtitle": "subtitles.sporecannons.sensor_fuze_lock",
+    "sounds": ["sporecannons:activation/sensor_fuze_lock"]
+  },
+  "cdu_activation_light": {
+    "subtitle": "subtitles.sporecannons.cdu_activation",
+    "sounds": ["sporecannons:activation/cdu_activation_light"]
+  },
+  "cdu_activation_reinforced": {
+    "subtitle": "subtitles.sporecannons.cdu_activation",
+    "sounds": ["sporecannons:activation/cdu_activation_reinforced"]
+  },
+  "cdu_activation_strategic": {
+    "subtitle": "subtitles.sporecannons.cdu_activation",
+    "sounds": ["sporecannons:activation/cdu_activation_strategic"]
+  },
+  "cdu_activation_absolute_zero": {
+    "subtitle": "subtitles.sporecannons.cdu_activation_absolute_zero",
+    "sounds": ["sporecannons:activation/cdu_activation_absolute_zero"]
+  },
+  "freeze_shell_detonation_i": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_detonation",
+    "sounds": ["sporecannons:explosion/freeze_shell_detonation_i"]
+  },
+  "freeze_shell_detonation_ii": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_detonation",
+    "sounds": ["sporecannons:explosion/freeze_shell_detonation_ii"]
+  },
+  "freeze_shell_detonation_iii": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_detonation",
+    "sounds": ["sporecannons:explosion/freeze_shell_detonation_iii"]
+  },
+  "freeze_shell_detonation_iv": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_detonation",
+    "sounds": ["sporecannons:explosion/freeze_shell_detonation_iv"]
+  },
+  "freeze_shell_detonation_v": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_detonation",
+    "sounds": ["sporecannons:explosion/freeze_shell_detonation_v"]
+  },
+  "freeze_shell_detonation_vi": {
+    "subtitle": "subtitles.sporecannons.freeze_shell_detonation",
+    "sounds": ["sporecannons:explosion/freeze_shell_detonation_vi"]
+  }
+}

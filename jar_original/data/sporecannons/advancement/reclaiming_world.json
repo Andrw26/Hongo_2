@@ -1,0 +1,17 @@
+{
+  "parent": "sporecannons:containment_protocol",
+  "display": {
+    "icon": { "id": "minecraft:grass_block" },
+    "title": { "translate": "advancements.sporecannons.reclaiming_world.title" },
+    "description": { "translate": "advancements.sporecannons.reclaiming_world.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "terrain_cleaned": {
+      "trigger": "sporecannons:terrain_cleaned"
+    }
+  }
+}

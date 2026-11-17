@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "III",
+    "GGG",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "sporecannons:laboratory_glass"
+    }
+  },
+  "result": {
+    "id": "sporecannons:glass_partition",
+    "count": 8
+  },
+  "show_notification": true
+}

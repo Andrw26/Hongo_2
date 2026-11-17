@@ -1,0 +1,17 @@
+{
+  "parent": "sporecannons:cryogenic_arsenal",
+  "display": {
+    "icon": { "id": "sporecannons:cryogenic_machine_gun_round" },
+    "title": { "translate": "advancements.sporecannons.containment_protocol.title" },
+    "description": { "translate": "advancements.sporecannons.containment_protocol.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "frostbite_applied": {
+      "trigger": "sporecannons:frostbite_applied"
+    }
+  }
+}

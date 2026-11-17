@@ -1,0 +1,9 @@
+{
+  "parent":"minecraft:block/orientable",
+  "textures":{
+    "top":"sporecannons:block/communication_cable_top",
+    "front":"sporecannons:block/communication_cable_front",
+    "side":"sporecannons:block/facility_frame",
+    "particle":"sporecannons:block/facility_frame"
+  }
+}

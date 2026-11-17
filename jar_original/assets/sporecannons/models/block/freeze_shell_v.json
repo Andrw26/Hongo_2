@@ -1,0 +1,9 @@
+{
+  "parent": "sporecannons:block/freeze_shell",
+  "textures": {
+    "side": "sporecannons:block/freeze_shell_v_side",
+    "top": "sporecannons:block/freeze_shell_v_top",
+    "bottom": "sporecannons:block/freeze_shell_v_bottom",
+    "particle": "sporecannons:block/freeze_shell_v_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "structures": [{
+    "structure": "sporecannons:whiteout_containment_post",
+    "weight": 1
+  }],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 72,
+    "separation": 32,
+    "salt": 4187329
+  }
+}

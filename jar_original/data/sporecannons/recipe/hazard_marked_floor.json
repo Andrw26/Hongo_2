@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "YBY",
+    "FFF",
+    "BYB"
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "F": {
+      "item": "sporecannons:laboratory_floor"
+    }
+  },
+  "result": {
+    "id": "sporecannons:hazard_marked_floor",
+    "count": 8
+  },
+  "show_notification": true
+}

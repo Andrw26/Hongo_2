@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "sporecannons:block/technical_wall_panel",
+    "side": "sporecannons:block/facility_pale",
+    "top": "sporecannons:block/laboratory_wall"
+  }
+}

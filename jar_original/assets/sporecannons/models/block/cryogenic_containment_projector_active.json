@@ -1,0 +1,6 @@
+{
+  "parent": "sporecannons:block/cryogenic_containment_projector",
+  "textures": {
+    "core": "sporecannons:block/cryogenic_containment_projector_core_active"
+  }
+}

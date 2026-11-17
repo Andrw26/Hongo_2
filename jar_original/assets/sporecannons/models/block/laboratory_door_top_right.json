@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "sporecannons:block/laboratory_door_bottom",
+    "top": "sporecannons:block/laboratory_door_top"
+  }
+}

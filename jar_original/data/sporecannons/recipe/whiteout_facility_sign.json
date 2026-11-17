@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PBP",
+    "BWB",
+    "PBP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "W": {
+      "item": "sporecannons:laboratory_wall"
+    }
+  },
+  "result": {
+    "id": "sporecannons:whiteout_facility_sign",
+    "count": 2
+  },
+  "show_notification": true
+}

@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "sporecannons:block/facility_frame",
+    "frame": "sporecannons:block/facility_frame",
+    "surface": "sporecannons:block/chamber_glass",
+    "sample": "sporecannons:block/sample_core",
+    "detail": "sporecannons:block/utility_pipe_side",
+    "accent": "sporecannons:block/communication_cable_front"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        4,
+        4
+      ],
+      "to": [
+        12,
+        12,
+        12
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sample"
+        },
+        "south": {
+          "texture": "#sample"
+        },
+        "east": {
+          "texture": "#sample"
+        },
+        "west": {
+          "texture": "#sample"
+        },
+        "up": {
+          "texture": "#sample"
+        },
+        "down": {
+          "texture": "#sample"
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:cutout"
+}

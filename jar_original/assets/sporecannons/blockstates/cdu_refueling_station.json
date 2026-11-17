@@ -1,0 +1,12 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" }, "apply": { "model": "sporecannons:block/cdu_refueling_station" } },
+    { "when": { "facing": "east" },  "apply": { "model": "sporecannons:block/cdu_refueling_station", "y": 90 } },
+    { "when": { "facing": "south" }, "apply": { "model": "sporecannons:block/cdu_refueling_station", "y": 180 } },
+    { "when": { "facing": "west" },  "apply": { "model": "sporecannons:block/cdu_refueling_station", "y": 270 } },
+    { "when": { "facing": "north", "pipe_connected": "true" }, "apply": { "model": "sporecannons:block/cdu_refueling_station_pipe_connection" } },
+    { "when": { "facing": "east",  "pipe_connected": "true" }, "apply": { "model": "sporecannons:block/cdu_refueling_station_pipe_connection", "y": 90 } },
+    { "when": { "facing": "south", "pipe_connected": "true" }, "apply": { "model": "sporecannons:block/cdu_refueling_station_pipe_connection", "y": 180 } },
+    { "when": { "facing": "west",  "pipe_connected": "true" }, "apply": { "model": "sporecannons:block/cdu_refueling_station_pipe_connection", "y": 270 } }
+  ]
+}

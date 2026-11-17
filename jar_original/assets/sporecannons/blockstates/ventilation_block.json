@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sporecannons:block/ventilation_block"
+    },
+    "facing=east": {
+      "model": "sporecannons:block/ventilation_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sporecannons:block/ventilation_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sporecannons:block/ventilation_block",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["TFT","BRB","TMT"],
+  "key":{
+    "T":{"item":"sporecannons:technical_wall_panel"},
+    "F":{"item":"create:encased_fan"},
+    "B":{"item":"create:brass_casing"},
+    "R":{"item":"sporecannons:cryogenic_reservoir"},
+    "M":{"item":"create:precision_mechanism"}
+  },
+  "result":{"id":"sporecannons:cryogenic_biomass_processor"}
+}

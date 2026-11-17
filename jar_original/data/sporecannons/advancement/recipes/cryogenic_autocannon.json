@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_microcell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": "sporecannons:cryogenic_microcell" }
+        ]
+      }
+    },
+    "has_any_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sporecannons:cryogenic_machine_gun_round"
+      }
+    }
+  },
+  "requirements": [["has_microcell", "has_any_recipe"]],
+  "rewards": {
+    "recipes": [
+      "sporecannons:cryogenic_machine_gun_round",
+      "sporecannons:cryogenic_ap_autocannon_round",
+      "sporecannons:cryogenic_flak_autocannon_round"
+    ]
+  }
+}

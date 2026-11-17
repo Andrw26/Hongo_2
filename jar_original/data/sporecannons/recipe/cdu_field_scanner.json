@@ -1,0 +1,16 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": ["BEB", "YMS", "BCB"],
+  "key": {
+    "B": { "tag": "c:plates/brass" },
+    "E": { "item": "create:electron_tube" },
+    "Y": { "item": "sporecannons:cryogenic_microcell" },
+    "M": { "item": "sporecannons:communication_module" },
+    "S": { "item": "minecraft:spyglass" },
+    "C": { "item": "minecraft:compass" }
+  },
+  "result": { "id": "sporecannons:cdu_field_scanner", "count": 1 },
+  "show_notification": false
+}

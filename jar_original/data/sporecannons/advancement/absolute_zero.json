@@ -1,0 +1,20 @@
+{
+  "parent": "sporecannons:reclaiming_world",
+  "display": {
+    "icon": { "id": "sporecannons:freeze_shell_vi" },
+    "title": { "translate": "advancements.sporecannons.absolute_zero.title" },
+    "description": { "translate": "advancements.sporecannons.absolute_zero.description" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tier_six_detonation": {
+      "trigger": "sporecannons:tier_six_detonation"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

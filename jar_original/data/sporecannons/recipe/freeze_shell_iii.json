@@ -1,0 +1,13 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": { "item": "sporecannons:cdu_core_iii" },
+  "loops": 1,
+  "results": [{ "id": "sporecannons:freeze_shell_iii" }],
+  "sequence": [
+    { "type": "create:deploying", "ingredients": [{ "item": "sporecannons:incomplete_cdu_assembly" }, { "item": "sporecannons:thermal_lining" }], "results": [{ "id": "sporecannons:incomplete_cdu_assembly" }] },
+    { "type": "create:deploying", "ingredients": [{ "item": "sporecannons:incomplete_cdu_assembly" }, { "item": "sporecannons:pressure_regulator" }], "results": [{ "id": "sporecannons:incomplete_cdu_assembly" }] },
+    { "type": "create:deploying", "ingredients": [{ "item": "sporecannons:incomplete_cdu_assembly" }, { "item": "createbigcannons:he_shell" }], "results": [{ "id": "sporecannons:incomplete_cdu_assembly" }] },
+    { "type": "create:pressing", "ingredients": [{ "item": "sporecannons:incomplete_cdu_assembly" }], "results": [{ "id": "sporecannons:incomplete_cdu_assembly" }] }
+  ],
+  "transitional_item": { "id": "sporecannons:incomplete_cdu_assembly" }
+}

@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"sporecannons:block/cryogenic_biomass_processor"},"facing=east":{"model":"sporecannons:block/cryogenic_biomass_processor","y":90},"facing=south":{"model":"sporecannons:block/cryogenic_biomass_processor","y":180},"facing=west":{"model":"sporecannons:block/cryogenic_biomass_processor","y":270}}}

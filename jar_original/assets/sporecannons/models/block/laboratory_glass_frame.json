@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sporecannons:block/laboratory_glass_frame"
+  },
+  "render_type": "minecraft:translucent"
+}

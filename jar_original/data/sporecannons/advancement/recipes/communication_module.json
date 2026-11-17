@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_electron_tube": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "create:electron_tube" }] }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": { "recipe": "sporecannons:communication_module" }
+    }
+  },
+  "requirements": [["has_electron_tube", "has_the_recipe"]],
+  "rewards": { "recipes": ["sporecannons:communication_module"] }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {"fuze": "createbigcannons:block/fuze", "particle": "createbigcannons:block/fuze"},
+  "elements": [{
+    "from": [7, -1, 7], "to": [9, 0, 9],
+    "faces": {
+      "north": {"uv": [2, 0, 4, 1], "texture": "#fuze"},
+      "east": {"uv": [2, 0, 4, 1], "texture": "#fuze"},
+      "south": {"uv": [2, 0, 4, 1], "texture": "#fuze"},
+      "west": {"uv": [2, 0, 4, 1], "texture": "#fuze"},
+      "down": {"uv": [0, 0, 2, 2], "texture": "#fuze"}
+    }
+  }]
+}

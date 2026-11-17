@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "sporecannons:block/ventilation_block",
+    "side": "sporecannons:block/facility_dark_side",
+    "top": "sporecannons:block/facility_frame"
+  }
+}

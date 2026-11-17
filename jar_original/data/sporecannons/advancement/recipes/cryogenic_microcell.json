@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_frozen_tumor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": "spore:frozen_tumor" }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sporecannons:cryogenic_microcell"
+      }
+    }
+  },
+  "requirements": [["has_frozen_tumor", "has_the_recipe"]],
+  "rewards": {
+    "recipes": [
+      "sporecannons:stabilized_cryogel",
+      "sporecannons:cryogenic_microcell",
+      "sporecannons:thermal_lining",
+      "sporecannons:pressure_regulator",
+      "sporecannons:cdu_core_i",
+      "sporecannons:cdu_core_ii",
+      "sporecannons:cdu_core_iii",
+      "sporecannons:cdu_core_iv",
+      "sporecannons:cdu_core_v",
+      "sporecannons:cdu_core_vi"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_microcell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": "sporecannons:cryogenic_microcell" }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sporecannons:cdu_field_scanner"
+      }
+    }
+  },
+  "requirements": [["has_microcell", "has_the_recipe"]],
+  "rewards": {
+    "recipes": ["sporecannons:cdu_field_scanner"]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "spore:gastric_biomass_block",
+      "required": false
+    },
+    {
+      "id": "spore:rooted_mycelium",
+      "required": false
+    },
+    {
+      "id": "spore:fungal_shell",
+      "required": false
+    },
+    {
+      "id": "spore:mycelium_block",
+      "required": false
+    },
+    {
+      "id": "spore:mycelium_slab",
+      "required": false
+    },
+    {
+      "id": "spore:wall_remains",
+      "required": false
+    },
+    {
+      "id": "spore:cerebrum_block",
+      "required": false
+    },
+    {
+      "id": "spore:innards_block",
+      "required": false
+    },
+    {
+      "id": "spore:heart_block",
+      "required": false
+    },
+    {
+      "id": "spore:braio_block",
+      "required": false
+    },
+    {
+      "id": "spore:drowned_lump",
+      "required": false
+    },
+    {
+      "id": "spore:bile_lump",
+      "required": false
+    },
+    {
+      "id": "spore:fang_lump",
+      "required": false
+    },
+    {
+      "id": "spore:exploding_lump",
+      "required": false
+    },
+    {
+      "id": "spore:poisoned_lump",
+      "required": false
+    },
+    {
+      "id": "spore:biomass_bulb",
+      "required": false
+    },
+    {
+      "id": "spore:outpost_watcher",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_slab",
+      "required": false
+    }
+  ]
+}

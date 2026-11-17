@@ -1,0 +1,13 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [" N ", "PCP", " N "],
+  "key": {
+    "N": { "tag": "c:nuggets/copper" },
+    "P": { "tag": "c:plates/brass" },
+    "C": { "item": "create:cogwheel" }
+  },
+  "result": { "id": "sporecannons:pressure_regulator", "count": 2 },
+  "show_notification": false
+}

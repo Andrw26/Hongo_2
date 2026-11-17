@@ -1,0 +1,17 @@
+{
+  "parent": "sporecannons:cryogenic_arsenal",
+  "display": {
+    "icon": { "id": "sporecannons:cdu_field_scanner" },
+    "title": { "translate": "advancements.sporecannons.diagnosis_infection.title" },
+    "description": { "translate": "advancements.sporecannons.diagnosis_infection.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "scan_completed": {
+      "trigger": "sporecannons:scan_completed"
+    }
+  }
+}

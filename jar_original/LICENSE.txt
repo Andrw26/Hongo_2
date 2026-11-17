@@ -1,0 +1,55 @@
+Spore Cannons: Cryogenic Arsenal Community License
+Version 1.0 — September 2026
+
+Copyright © 2026 ELVOUX. All rights reserved except for the permissions expressly granted below.
+
+
+
+1. Playing and servers
+   You may download and use Spore Cannons: Cryogenic Arsenal for personal use and on private or public Minecraft servers.
+
+2. Modpacks
+   You may include the official, unmodified release of the mod in free modpacks. Credit to Spore Cannons: Cryogenic Arsenal and ELVOUX is appreciated. Redistribution of modified builds as the official mod is not permitted.
+
+3. Videos, streams and other content
+   You may create and monetize videos, streams, screenshots, reviews, guides and other media featuring the mod.
+
+4. Add-ons and compatibility projects
+   You may create and publicly distribute add-ons, integrations, datapacks and compatibility projects that depend on or interact with Spore Cannons: Cryogenic Arsenal, provided they do not redistribute substantial portions of the original mod, code or assets and are clearly presented as unofficial unless approved by ELVOUX.
+
+5. Source code and personal modifications
+   You may study the source code and modify the mod for personal, private-server, educational and development purposes.
+
+6. Public forks, ports and continuations
+   Public distribution of a modified version, fork, remake, continuation, or port of Spore Cannons: Cryogenic Arsenal to another Minecraft version or mod loader requires prior permission from ELVOUX.
+
+Contributors interested in maintaining an official port are encouraged to contact ELVOUX. Permission may include publishing the port as part of the official project and, where applicable, an agreed share of platform rewards.
+
+7. Inactive-project continuation
+   If the official project has received no public release, development update, or maintenance activity from ELVOUX for 24 consecutive months, community members may publish maintenance ports to newer Minecraft versions or mod loaders without prior permission, provided that:
+
+ELVOUX and Spore Cannons: Cryogenic Arsenal are prominently credited as the original author and project;
+the continuation clearly states that it is an unofficial community continuation;
+the original project name, logo and WHITEOUT branding are not used in a way that implies official endorsement;
+the continuation is distributed free of charge;
+this permission does not grant ownership of the original assets, branding or project identity.
+If official development resumes, already-published community continuations created legitimately under this section may remain available.
+
+8. Assets and project identity
+   Original textures, models, sounds, artwork, documentation, WHITEOUT lore, logos, names and other creative assets remain copyrighted by their respective creators. They may not be extracted, repackaged, sold, or used in unrelated projects without permission.
+
+Limited use of original assets necessary for an authorized port or a community continuation permitted under Section 7 is allowed only for maintaining compatibility with Spore Cannons: Cryogenic Arsenal.
+
+9. Commercial use and redistribution
+   You may not sell the mod, sell access to the mod, place the mod or modified versions behind a paywall, or commercially redistribute its files.
+
+This does not prohibit monetized videos/streams, ordinary server monetization that complies with Mojang/Minecraft rules, or platform reward programs associated with an authorized distribution.
+
+10. Third-party components
+    This license applies only to material for which ELVOUX holds the necessary rights. Minecraft, Create, Create Big Cannons, Fungal Infection: Spore, Ritchie's Projectile Library and other third-party projects remain subject to their respective licenses and terms.
+
+11. No warranty
+    The mod is provided “as is”, without warranty of any kind. The author is not liable for damages arising from its use.
+
+12. Additional permission
+    ELVOUX may grant additional permissions or approve exceptions to these terms in writing.

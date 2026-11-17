@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sporecannons:structural_panel"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "sporecannons:blocks/structural_panel"
+}

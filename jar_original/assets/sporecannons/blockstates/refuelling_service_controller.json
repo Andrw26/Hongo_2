@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"sporecannons:block/refuelling_service_controller"},"facing=east":{"model":"sporecannons:block/refuelling_service_controller","y":90},"facing=south":{"model":"sporecannons:block/refuelling_service_controller","y":180},"facing=west":{"model":"sporecannons:block/refuelling_service_controller","y":270}}}

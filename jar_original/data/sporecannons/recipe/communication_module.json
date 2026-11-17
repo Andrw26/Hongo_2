@@ -1,0 +1,14 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [" B ", "ERE", " C "],
+  "key": {
+    "B": { "tag": "c:plates/brass" },
+    "E": { "item": "create:electron_tube" },
+    "R": { "item": "create:redstone_link" },
+    "C": { "tag": "c:plates/copper" }
+  },
+  "result": { "id": "sporecannons:communication_module", "count": 2 },
+  "show_notification": false
+}

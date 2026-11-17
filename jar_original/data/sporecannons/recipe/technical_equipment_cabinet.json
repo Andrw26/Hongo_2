@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PEP",
+    "CMC",
+    "PEP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "sporecannons:storage_cabinet"
+    },
+    "M": {
+      "item": "sporecannons:communication_module"
+    }
+  },
+  "result": {
+    "id": "sporecannons:technical_equipment_cabinet",
+    "count": 1
+  },
+  "show_notification": true
+}

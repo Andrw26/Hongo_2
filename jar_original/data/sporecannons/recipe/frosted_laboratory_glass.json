@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "SSS",
+    "GGG",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:snowball"
+    },
+    "G": {
+      "item": "sporecannons:laboratory_glass"
+    }
+  },
+  "result": {
+    "id": "sporecannons:frosted_laboratory_glass",
+    "count": 8
+  },
+  "show_notification": true
+}

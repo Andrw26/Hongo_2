@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sporecannons:item/whiteout_field_manual"
+  }
+}

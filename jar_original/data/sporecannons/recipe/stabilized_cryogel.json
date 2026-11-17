@@ -1,0 +1,11 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "spore:cryogenic_reagent" },
+    { "item": "spore:ice_canister" },
+    { "item": "spore:frozen_tumor" },
+    { "item": "minecraft:snowball" },
+    { "item": "minecraft:snowball" }
+  ],
+  "results": [{ "id": "sporecannons:stabilized_cryogel", "count": 4 }]
+}

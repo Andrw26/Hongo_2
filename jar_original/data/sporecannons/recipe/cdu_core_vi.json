@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "pattern": [
+    "XXXSXXX",
+    "XNLGLNX",
+    "XLDRDLX",
+    "BGRVRGB",
+    "XLDRDLX",
+    "XNLGLNX",
+    "XXXBXXX"
+  ],
+  "key": {
+    "X": { "item": "create:sturdy_sheet" },
+    "L": { "item": "sporecannons:thermal_lining" },
+    "G": { "item": "sporecannons:stabilized_cryogel" },
+    "D": { "item": "minecraft:diamond" },
+    "N": { "item": "createbigcannons:nethersteel_ingot" },
+    "R": { "item": "sporecannons:pressure_regulator" },
+    "V": { "item": "sporecannons:cdu_core_v" },
+    "B": { "item": "createbigcannons:nethersteel_block" },
+    "S": { "item": "minecraft:nether_star" }
+  },
+  "result": { "id": "sporecannons:cdu_core_vi", "count": 1 },
+  "show_notification": true
+}

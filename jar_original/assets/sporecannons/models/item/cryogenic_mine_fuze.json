@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sporecannons:item/cryogenic_mine_fuze"
+  }
+}

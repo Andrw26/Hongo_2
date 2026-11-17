@@ -1,0 +1,9 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "tag": "c:plates/iron" },
+    { "tag": "c:plates/copper" },
+    { "item": "sporecannons:stabilized_cryogel" }
+  ],
+  "results": [{ "id": "sporecannons:thermal_lining", "count": 4 }]
+}

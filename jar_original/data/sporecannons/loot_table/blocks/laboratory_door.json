@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sporecannons:laboratory_door",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "sporecannons:laboratory_door",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "sporecannons:blocks/laboratory_door"
+}

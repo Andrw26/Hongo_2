@@ -1,0 +1,12 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["CEC","TMT","CBC"],
+  "key":{
+    "C":{"item":"sporecannons:communication_cable_block"},
+    "E":{"item":"create:electron_tube"},
+    "T":{"item":"sporecannons:technical_equipment_cabinet"},
+    "M":{"item":"sporecannons:communication_module"},
+    "B":{"item":"create:brass_casing"}
+  },
+  "result":{"id":"sporecannons:projector_service_controller"}
+}

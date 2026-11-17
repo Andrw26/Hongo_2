@@ -1,0 +1,15 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": ["  N  ", " DLD ", "NLPLN", " DLD ", "  R  "],
+  "key": {
+    "N": { "item": "createbigcannons:nethersteel_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "L": { "item": "sporecannons:thermal_lining" },
+    "P": { "item": "sporecannons:cdu_core_iv" },
+    "R": { "item": "sporecannons:pressure_regulator" }
+  },
+  "result": { "id": "sporecannons:cdu_core_v", "count": 1 },
+  "show_notification": false
+}

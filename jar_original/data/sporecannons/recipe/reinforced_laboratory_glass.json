@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PGP",
+    "GGG",
+    "PGP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "G": {
+      "item": "sporecannons:laboratory_glass"
+    }
+  },
+  "result": {
+    "id": "sporecannons:reinforced_laboratory_glass",
+    "count": 4
+  },
+  "show_notification": true
+}

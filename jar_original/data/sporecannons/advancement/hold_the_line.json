@@ -1,0 +1,10 @@
+{
+  "parent": "sporecannons:cold_logistics",
+  "display": {
+    "icon": { "id": "sporecannons:cryogenic_containment_projector" },
+    "title": { "translate": "advancements.sporecannons.hold_the_line.title" },
+    "description": { "translate": "advancements.sporecannons.hold_the_line.description" },
+    "frame": "goal", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": { "activated": { "trigger": "sporecannons:projector_activated" } }
+}

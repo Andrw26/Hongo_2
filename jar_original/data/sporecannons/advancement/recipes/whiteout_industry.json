@@ -1,0 +1,16 @@
+{
+  "parent": "sporecannons:recovered_protocol",
+  "criteria": {
+    "has_manual": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "sporecannons:whiteout_field_manual" }] }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "sporecannons:depleted_cdu_coolant_cartridge",
+      "sporecannons:cdu_refueling_station",
+      "sporecannons:cryogenic_containment_projector"
+    ]
+  }
+}

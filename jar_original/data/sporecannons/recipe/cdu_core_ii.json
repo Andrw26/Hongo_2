@@ -1,0 +1,15 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": ["CIC", "GPG", "CRC"],
+  "key": {
+    "C": { "tag": "c:plates/copper" },
+    "I": { "item": "spore:ice_canister" },
+    "G": { "item": "sporecannons:stabilized_cryogel" },
+    "P": { "item": "sporecannons:cdu_core_i" },
+    "R": { "item": "sporecannons:pressure_regulator" }
+  },
+  "result": { "id": "sporecannons:cdu_core_ii", "count": 1 },
+  "show_notification": false
+}

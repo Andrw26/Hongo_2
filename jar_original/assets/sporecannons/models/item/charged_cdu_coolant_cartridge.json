@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "sporecannons:item/charged_cdu_coolant_cartridge" }
+}

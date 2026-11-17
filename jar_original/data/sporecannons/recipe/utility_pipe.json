@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PFP",
+    "FWF",
+    "PFP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "F": {
+      "item": "create:fluid_pipe"
+    },
+    "W": {
+      "item": "sporecannons:reinforced_wall_panel"
+    }
+  },
+  "result": {
+    "id": "sporecannons:utility_pipe",
+    "count": 4
+  },
+  "show_notification": true
+}

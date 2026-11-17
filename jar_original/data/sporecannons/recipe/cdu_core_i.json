@@ -1,0 +1,15 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": ["ICI", "GPG", "IFI"],
+  "key": {
+    "I": { "tag": "c:plates/iron" },
+    "C": { "item": "sporecannons:communication_module" },
+    "F": { "item": "spore:frozen_tumor" },
+    "G": { "item": "sporecannons:stabilized_cryogel" },
+    "P": { "item": "sporecannons:pressure_regulator" }
+  },
+  "result": { "id": "sporecannons:cdu_core_i", "count": 1 },
+  "show_notification": false
+}

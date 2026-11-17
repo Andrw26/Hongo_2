@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_frozen_tumor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:frozen_tumor"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sporecannons:freeze_shell"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_frozen_tumor",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sporecannons:freeze_shell",
+      "sporecannons:freeze_shell_ii",
+      "sporecannons:freeze_shell_iii",
+      "sporecannons:freeze_shell_iv",
+      "sporecannons:freeze_shell_v",
+      "sporecannons:freeze_shell_vi"
+    ]
+  }
+}

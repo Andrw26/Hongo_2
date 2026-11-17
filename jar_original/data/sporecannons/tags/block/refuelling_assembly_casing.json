@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "sporecannons:reinforced_wall_panel",
+    "sporecannons:structural_panel",
+    "sporecannons:technical_wall_panel"
+  ]
+}

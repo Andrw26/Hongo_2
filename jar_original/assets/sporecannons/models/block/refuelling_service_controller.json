@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "sporecannons:block/facility_dark_side",
+    "up": "sporecannons:block/worktop",
+    "north": "sporecannons:block/facility_dark_side",
+    "south": "sporecannons:block/cdu_refueling_station_panel",
+    "west": "sporecannons:block/facility_dark_side",
+    "east": "sporecannons:block/facility_dark_side",
+    "particle": "sporecannons:block/facility_dark_side"
+  }
+}

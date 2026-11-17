@@ -1,0 +1,12 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["TPT","BSB","TMT"],
+  "key":{
+    "T":{"item":"sporecannons:technical_wall_panel"},
+    "P":{"item":"create:mechanical_pump"},
+    "B":{"item":"create:brass_casing"},
+    "S":{"item":"sporecannons:sample_containment_chamber"},
+    "M":{"item":"create:precision_mechanism"}
+  },
+  "result":{"id":"sporecannons:biomass_cultivator"}
+}

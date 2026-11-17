@@ -1,0 +1,33 @@
+{
+  "name": "sporecannons:whiteout_containment_post/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 16,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sporecannons:whiteout_containment_post_empty",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sporecannons:whiteout_containment_post_shell_i",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sporecannons:whiteout_containment_post_shell_ii",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PWP",
+    "PWP",
+    "PWP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "W": {
+      "item": "sporecannons:laboratory_wall"
+    }
+  },
+  "result": {
+    "id": "sporecannons:structural_panel",
+    "count": 6
+  },
+  "show_notification": true
+}

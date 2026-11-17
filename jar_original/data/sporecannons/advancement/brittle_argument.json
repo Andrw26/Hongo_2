@@ -1,0 +1,17 @@
+{
+  "parent": "sporecannons:containment_protocol",
+  "display": {
+    "icon": { "id": "minecraft:packed_ice" },
+    "title": { "translate": "advancements.sporecannons.brittle_argument.title" },
+    "description": { "translate": "advancements.sporecannons.brittle_argument.description" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "brittle_shatter": {
+      "trigger": "sporecannons:brittle_shatter"
+    }
+  }
+}

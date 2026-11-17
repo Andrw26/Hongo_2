@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "BEB",
+    "GCM",
+    "BKB"
+  ],
+  "key": {
+    "B": {
+      "item": "create:brass_casing"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    },
+    "G": {
+      "item": "sporecannons:laboratory_glass"
+    },
+    "C": {
+      "item": "sporecannons:communication_module"
+    },
+    "M": {
+      "item": "create:precision_mechanism"
+    },
+    "K": {
+      "item": "sporecannons:communication_cable_block"
+    }
+  },
+  "result": {
+    "id": "sporecannons:laboratory_terminal",
+    "count": 1
+  },
+  "show_notification": true
+}

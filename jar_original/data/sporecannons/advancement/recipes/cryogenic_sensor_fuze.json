@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_microcell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": "sporecannons:cryogenic_microcell" }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sporecannons:cryogenic_sensor_fuze"
+      }
+    }
+  },
+  "requirements": [["has_microcell", "has_the_recipe"]],
+  "rewards": {
+    "recipes": ["sporecannons:cryogenic_sensor_fuze"]
+  }
+}

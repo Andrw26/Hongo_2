@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PMP",
+    "GTG",
+    "PMP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "M": {
+      "item": "sporecannons:cryogenic_microcell"
+    },
+    "G": {
+      "item": "sporecannons:reinforced_laboratory_glass"
+    },
+    "T": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "result": {
+    "id": "sporecannons:cryogenic_reservoir",
+    "count": 1
+  },
+  "show_notification": true
+}

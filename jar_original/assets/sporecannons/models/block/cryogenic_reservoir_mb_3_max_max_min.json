@@ -1,0 +1,152 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "sporecannons:block/cryogenic_reservoir_frame",
+    "frame": "sporecannons:block/cryogenic_reservoir_frame",
+    "surface": "sporecannons:block/cryogenic_reservoir_surface",
+    "sample": "sporecannons:block/sample_core",
+    "detail": "sporecannons:block/cryogenic_reservoir_cap",
+    "accent": "sporecannons:block/cryogenic_reservoir_connector"
+  },
+  "elements": [
+    {
+      "from": [
+        15.55,
+        0,
+        2
+      ],
+      "to": [
+        15.6,
+        14,
+        16
+      ],
+      "faces": {
+        "east": {
+          "texture": "#surface"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        15.55,
+        2
+      ],
+      "to": [
+        14,
+        15.6,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#surface"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0.4
+      ],
+      "to": [
+        14,
+        14,
+        0.45
+      ],
+      "faces": {
+        "north": {
+          "texture": "#surface"
+        }
+      }
+    },
+    {
+      "from": [
+        14,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        2
+      ],
+      "faces": {
+        "west": {
+          "texture": "#frame"
+        },
+        "east": {
+          "texture": "#frame"
+        },
+        "north": {
+          "texture": "#frame"
+        },
+        "south": {
+          "texture": "#frame"
+        },
+        "up": {
+          "texture": "#frame"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        14,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        2
+      ],
+      "faces": {
+        "up": {
+          "texture": "#frame"
+        },
+        "down": {
+          "texture": "#frame"
+        },
+        "north": {
+          "texture": "#frame"
+        },
+        "south": {
+          "texture": "#frame"
+        },
+        "east": {
+          "texture": "#frame"
+        }
+      }
+    },
+    {
+      "from": [
+        14,
+        14,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#frame"
+        },
+        "down": {
+          "texture": "#frame"
+        },
+        "west": {
+          "texture": "#frame"
+        },
+        "east": {
+          "texture": "#frame"
+        },
+        "north": {
+          "texture": "#frame"
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:translucent"
+}

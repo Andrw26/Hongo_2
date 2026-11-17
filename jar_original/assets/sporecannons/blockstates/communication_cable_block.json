@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sporecannons:block/communication_cable_block"
+    },
+    "facing=east": {
+      "model": "sporecannons:block/communication_cable_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sporecannons:block/communication_cable_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sporecannons:block/communication_cable_block",
+      "y": 270
+    }
+  }
+}

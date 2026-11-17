@@ -1,0 +1,12 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["CPC","TMT","CBC"],
+  "key":{
+    "C":{"item":"sporecannons:communication_cable_block"},
+    "P":{"item":"create:mechanical_pump"},
+    "T":{"item":"sporecannons:technical_equipment_cabinet"},
+    "M":{"item":"sporecannons:communication_module"},
+    "B":{"item":"create:brass_casing"}
+  },
+  "result":{"id":"sporecannons:refuelling_service_controller"}
+}

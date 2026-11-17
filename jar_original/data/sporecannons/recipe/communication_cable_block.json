@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CRC",
+    "RWR",
+    "CRC"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:plates/copper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "W": {
+      "item": "sporecannons:technical_wall_panel"
+    }
+  },
+  "result": {
+    "id": "sporecannons:communication_cable_block",
+    "count": 4
+  },
+  "show_notification": true
+}

@@ -1,0 +1,580 @@
+{
+  "variants": {
+    "size=1,x_part=single,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=single,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=min,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=middle,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=1,x_part=max,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=single,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_min_min_min"
+    },
+    "size=2,x_part=min,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_min_min_max"
+    },
+    "size=2,x_part=min,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_min_max_min"
+    },
+    "size=2,x_part=min,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=min,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_min_max_max"
+    },
+    "size=2,x_part=middle,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=middle,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_max_min_min"
+    },
+    "size=2,x_part=max,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_max_min_max"
+    },
+    "size=2,x_part=max,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_max_max_min"
+    },
+    "size=2,x_part=max,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=2,x_part=max,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_2_max_max_max"
+    },
+    "size=3,x_part=single,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=single,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_min_min"
+    },
+    "size=3,x_part=min,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_min_middle"
+    },
+    "size=3,x_part=min,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_min_max"
+    },
+    "size=3,x_part=min,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_middle_min"
+    },
+    "size=3,x_part=min,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_middle_middle"
+    },
+    "size=3,x_part=min,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_middle_max"
+    },
+    "size=3,x_part=min,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=min,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_max_min"
+    },
+    "size=3,x_part=min,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_max_middle"
+    },
+    "size=3,x_part=min,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_min_max_max"
+    },
+    "size=3,x_part=middle,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=middle,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=middle,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=middle,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=middle,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=middle,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_min_min"
+    },
+    "size=3,x_part=middle,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_min_middle"
+    },
+    "size=3,x_part=middle,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_min_max"
+    },
+    "size=3,x_part=middle,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=middle,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_middle_min"
+    },
+    "size=3,x_part=middle,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_middle_middle"
+    },
+    "size=3,x_part=middle,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_middle_max"
+    },
+    "size=3,x_part=middle,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=middle,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_max_min"
+    },
+    "size=3,x_part=middle,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_max_middle"
+    },
+    "size=3,x_part=middle,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_middle_max_max"
+    },
+    "size=3,x_part=max,y_part=single,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=max,y_part=single,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=max,y_part=single,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=max,y_part=single,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=max,y_part=min,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=max,y_part=min,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_min_min"
+    },
+    "size=3,x_part=max,y_part=min,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_min_middle"
+    },
+    "size=3,x_part=max,y_part=min,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_min_max"
+    },
+    "size=3,x_part=max,y_part=middle,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=max,y_part=middle,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_middle_min"
+    },
+    "size=3,x_part=max,y_part=middle,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_middle_middle"
+    },
+    "size=3,x_part=max,y_part=middle,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_middle_max"
+    },
+    "size=3,x_part=max,y_part=max,z_part=single": {
+      "model": "sporecannons:block/sample_containment_chamber"
+    },
+    "size=3,x_part=max,y_part=max,z_part=min": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_max_min"
+    },
+    "size=3,x_part=max,y_part=max,z_part=middle": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_max_middle"
+    },
+    "size=3,x_part=max,y_part=max,z_part=max": {
+      "model": "sporecannons:block/sample_containment_chamber_mb_3_max_max_max"
+    }
+  }
+}

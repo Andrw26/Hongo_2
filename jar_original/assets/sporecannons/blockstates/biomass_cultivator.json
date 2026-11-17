@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"sporecannons:block/biomass_cultivator"},"facing=east":{"model":"sporecannons:block/biomass_cultivator","y":90},"facing=south":{"model":"sporecannons:block/biomass_cultivator","y":180},"facing=west":{"model":"sporecannons:block/biomass_cultivator","y":270}}}
